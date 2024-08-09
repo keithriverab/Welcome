@@ -1,6 +1,6 @@
 # BIENVENIDO!!
 
-## Te doy la bienvenida mi repositorio de proyectos , estos están en privados ya que son soluciones desarrolladas para mis customers por lo tanto , si quieres ver mi repositorio para contratar mis servicios por favor enviame un correo! kriverabulnes@gmail.com
+## ¡Bienvenidos a mi repositorio! Mis proyectos actualmente son privados ya que son soluciones a medida desarrolladas para mis clientes. Si estás interesado en ver mi trabajo o contratar mis servicios, no dudes en ponerte en contacto conmigo en kriverabulnes@gmail.com.
 
 ## Introducción
 
